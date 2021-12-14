@@ -13,6 +13,11 @@ Several cities and national authorities across the globe publish records on road
 1. Use the code in [Dataset Curation](dataset_curation) to curate each dataset.
 
 
+## Website
+
+Check out our website to easily explore the data [here](https://ushift.tecnico.ulisboa.pt/cyclands).
+
+
 ### License
 
 Our code is under [MIT license](LICENSE).
@@ -22,11 +27,10 @@ Our code is under [MIT license](LICENSE).
 
 If you find this project useful for your research, please use the following BibTeX entry.
 
-```
-@article{costa2021circuity,
-    AUTHOR = {Costa, Miguel and Marques, Manuel and Roque, Carlos and Moura, Filipe},
 
-}
+```
+Article under review.
+
 ```
 
 
